@@ -1,4 +1,4 @@
-<h1 align="center">Seed checker | Debank, NFT, logs, Bruteforce, cryptowallet, EVM, tokens checker, 40+chains</h1>
+<h1 align="center">Dexchecker Solana, EVM | Find Whale's portfolios easier!</h1>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
   <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
@@ -8,7 +8,7 @@
 <h2>Instructions for Installation:</h2>
 ![image](https://github.com/user-attachments/assets/dfe9f3be-45e8-4cbc-b4da-c3c68ec8c35d)
 
-<h1>Download Seed Checker </h1>
+<h1>Download Dexscreener</h1>
 <li><a class="download" href="###"><img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/></li>
 
 Requirements
