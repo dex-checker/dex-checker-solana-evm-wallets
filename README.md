@@ -7,7 +7,14 @@
 </div>
 </div>
 </div>
-
+<div> Minimum System Requirements:
+<li>Operating System: Windows 10/11, macOS 10.14+, Linux (Ubuntu recommended)</li>
+<li>Processor: Intel Core i3 (or AMD equivalent) or higher</li>
+<li>RAM: 4GB minimum (8GB recommended for better performance)</li>
+<li>Storage: 500MB free disk space</li>
+<li>Internet Connection: Stable broadband connection required</li>
+<li>Graphics: Integrated GPU (Dedicated GPU recommended for advanced charting)</li>
+</div>
 
 <h2>Instructions for Installation: 📑</h2>
 <ol>
@@ -19,19 +26,21 @@
   
 </ol>
 
-### What is DexCheck? 📕
+### Overview: 📕
 ![image](https://github.com/user-attachments/assets/c85276b7-04a8-4646-8d44-99240a95d64a)
 
-<h1>Our Dex Screener is a powerful tool that allows you to: ✅</h1>
-DexCheck is a state-of-the-art Crypto and NFT Analytics platform powered by AI, delivering real-time insights, intelligent alerts, and in-depth market analysis to optimize your trading experience and help you get the best results!
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2czdmpvOXgwM2xyeHhqeG9jem1lYmxqdGJnMTZ0OGg2ZXkybGZkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iRIf7MAdvOIbdxK4rR/giphy.gif" width="300"/>
+<p>DEX Screener is a powerful and intuitive tool for tracking real-time data across decentralized exchanges (DEXs). Designed for traders, investors, and blockchain enthusiasts, it provides comprehensive insights into token movements, liquidity changes, whale transactions, and market trends across multiple blockchain networks.</p>
 
-### Why This Product? 🧊
+### Key Features: 🧊
 ![image](https://github.com/user-attachments/assets/fdada353-2c58-4ca7-80bd-374a4a129f7a)
 
-DexCheck stands out as an industry-leading, AI-enhanced data analytics platform specializing in cryptocurrency and NFTs. Our distinct features include real-time charting, smart money tracking, token analytics, and even tracking top Crypto and NFT traders. We leverage advanced technology to offer intelligent alerts and AI-driven insights, making trading more efficient for our users. Find Crypto whale's portfolios made search easier! 
-
-<h2>Features 💯</h2>
-<li>Real-time Tracking: Get up-to-date information on trading volumes across various exchanges.</li>
-<li>User-friendly Interface: Navigate effortlessly through our intuitive design.</li>
-<li>Open Source: Contribute to the project and help us improve by accessing the source code on GitHub.</li>       
+<li>Real-Time Market Data – Live price updates, volume changes, and liquidity tracking across multiple DEXs. ✅</li> 
+<li>Whale Tracker – Monitor large transactions and whale movements in real time. ✅</li>
+<li>Multi-Chain Support – Works with Ethereum, Binance Smart Chain, Solana, Arbitrum, and more. ✅</li>
+<li>Custom Alerts – Set alerts for specific token price changes, liquidity additions, or whale transactions. ✅</li>
+<li>On-Chain Analysis – Track wallet activities, token swaps, and liquidity pools. ✅</li>
+<li>Intuitive Dashboard – User-friendly interface with customizable charts and filters. ✅</li>
+<li>Token Screener – Discover trending tokens, newly launched projects, and high-potential assets. ✅</li>
+<li>Gas Fee Estimator – Check real-time gas fees for efficient trading. ✅</li>
+<li>Dark & Light Mode – Seamless UI customization for better visibility. ✅</li>
+<li>API Access – Advanced users can integrate DEX Screener with their trading bots and analytics tools. ✅</li>     
