@@ -19,10 +19,10 @@
   
 </ol>
 
-### What is DexCheck?
+### What is DexCheck? 📕
 ![image](https://github.com/user-attachments/assets/c85276b7-04a8-4646-8d44-99240a95d64a)
 
-<h1>Our Dex Screener is a powerful tool that allows you to:</h1>
+<h1>Our Dex Screener is a powerful tool that allows you to: ✅</h1>
 DexCheck is a state-of-the-art Crypto and NFT Analytics platform powered by AI, delivering real-time insights, intelligent alerts, and in-depth market analysis to optimize your trading experience and help you get the best results!
 ###
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2czdmpvOXgwM2xyeHhqeG9jem1lYmxqdGJnMTZ0OGg2ZXkybGZkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iRIf7MAdvOIbdxK4rR/giphy.gif" width="300"/>
