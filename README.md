@@ -1,5 +1,6 @@
-<h1>🌟 <strong>Dex Checker</strong> / <strong>Dex Screener</strong></h1>
+<img src="https://github.com/Pump-Fun-Token-Maker-Coin-Value-Checker/SeratoDJCrack.github.io/blob/main/logo.jpeg" alt="Dex Checker Logo">
 
+<h1 align="center">🌟 <strong>Dex Checker</strong> / <strong>Dex Screener</strong></h1>
 
 
 <h2>📊 Overview</h2>
@@ -32,12 +33,12 @@
     </tr>
     <tr>
         <td>Premium</td>
-        <td>\$159.99/month</td>
+        <td>$159.99/month</td>
         <td>- All features of the Basic plan<br>- Support for up to 3 DEX<br>- Price alerts</td>
     </tr>
     <tr>
         <td>Professional</td>
-        <td>\$229.99/month</td>
+        <td>$229.99/month</td>
         <td>- All features of the Premium plan<br>- Support for unlimited DEX<br>- Priority customer support</td>
     </tr>
 </table>
