@@ -1,5 +1,7 @@
 <h1>🌟 <strong>Dex Checker</strong> / <strong>Dex Screener</strong></h1>
 
+
+
 <h2>📊 Overview</h2>
 
 <p><strong>Dex Checker</strong>, your ultimate <strong>DeFi Token Screener</strong>, is a revolutionary tool for analyzing and monitoring decentralized exchanges (DEX) that will help you stay ahead in the world of cryptocurrencies! 🚀 With <strong>Dex Checker</strong>, you can effectively track <strong>smart money</strong> movements and make informed decisions.</p>
@@ -47,15 +49,15 @@
 <ol>
     <li><strong>Real-time price monitoring</strong><br>
         Get up-to-date cryptocurrency price data from various DEXs. No delays — just instant information!<br>
-        <img src="https://imgur.com/eFmjiki" alt="Price Monitoring"> <!-- Replace with a link to the price monitoring image -->
+        <img src="https://i.imgur.com/7bXuGoh.jpg" alt="Price Monitoring"> <!-- Replace with a link to the price monitoring image -->
     </li>
     <li><strong>Trading Volume Analysis</strong><br>
         Discover which tokens are most popular among traders through trading volume analysis. This will help you find profitable trading opportunities.<br>
-        <img src="https://imgur.com/NhTMZVj" alt="Volume Analysis"> <!-- Replace with a link to the volume analysis image -->
+        <img src="https://i.imgur.com/eFmjiki.jpg" alt="Price Monitoring"> <!-- Replace with a link to the volume analysis image -->
     </li>
     <li><strong>Historical Data</strong><br>
         Access historical price and volume data for in-depth analysis. Understanding past trends is key to successful investments.<br>
-        <img src="https://imgur.com/aiykGHC" alt="Historical Data"> <!-- Replace with a link to the historical data image -->
+        <img src="https://i.imgur.com/aiykGHC.jpg" alt="Historical Data"> <!-- Replace with a link to the historical data image -->
     </li>
     <li><strong>Price Alerts</strong><br>
         Set up alerts to receive notifications when certain price levels are reached. Stay informed about important market changes!</li>
