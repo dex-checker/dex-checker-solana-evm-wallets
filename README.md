@@ -47,15 +47,15 @@
 <ol>
     <li><strong>Real-time price monitoring</strong><br>
         Get up-to-date cryptocurrency price data from various DEXs. No delays — just instant information!<br>
-        <img src="https://imgur.com/a/Z80p74Z" alt="Price Monitoring"> <!-- Replace with a link to the price monitoring image -->
+        <img src="https://imgur.com/eFmjiki" alt="Price Monitoring"> <!-- Replace with a link to the price monitoring image -->
     </li>
     <li><strong>Trading Volume Analysis</strong><br>
         Discover which tokens are most popular among traders through trading volume analysis. This will help you find profitable trading opportunities.<br>
-        <img src="https://imgur.com/a/p6quh15" alt="Volume Analysis"> <!-- Replace with a link to the volume analysis image -->
+        <img src="https://imgur.com/NhTMZVj" alt="Volume Analysis"> <!-- Replace with a link to the volume analysis image -->
     </li>
     <li><strong>Historical Data</strong><br>
         Access historical price and volume data for in-depth analysis. Understanding past trends is key to successful investments.<br>
-        <img src="https://imgur.com/a/y4AfxCI" alt="Historical Data"> <!-- Replace with a link to the historical data image -->
+        <img src="https://imgur.com/aiykGHC" alt="Historical Data"> <!-- Replace with a link to the historical data image -->
     </li>
     <li><strong>Price Alerts</strong><br>
         Set up alerts to receive notifications when certain price levels are reached. Stay informed about important market changes!</li>
