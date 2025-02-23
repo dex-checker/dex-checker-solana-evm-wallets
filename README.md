@@ -34,18 +34,18 @@
     </tr>
     <tr>
         <td>Basic</td>
-        <td>$79.99/month</td>
-        <td>- Access to basic features<br>- Support for 1 DEX</td>
+        <td>Free</td>
+        <td>- Core DEX monitoring capabilities, limited access to historical data, and basic analytical tools<br>- Standard user support</td>
     </tr>
     <tr>
-        <td>Premium</td>
-        <td>$159.99/month</td>
-        <td>- All features of the Basic plan<br>- Support for up to 3 DEX<br>- Price alerts</td>
+        <td>Advanced</td>
+        <td>$29.99/month</td>
+        <td>- Enhanced transaction analysis, access to additional metrics, customizable alerts, and integration with multiple exchanges.<br>-  Priority support and access to educational materials</td>
     </tr>
     <tr>
-        <td>Professional</td>
-        <td>$229.99/month</td>
-        <td>- All features of the Premium plan<br>- Support for unlimited DEX<br>- Priority customer support</td>
+        <td>Pro</td>
+        <td>$59.99/month</td>
+        <td>- Full access to all features, including detailed analytics, automated reports, API access for integration with other tools, and personalized dashboards<br>- premium support and individual consultations</td>
     </tr>
 </table>
 
