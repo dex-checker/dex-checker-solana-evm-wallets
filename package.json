@@ -1,0 +1,52 @@
+{
+  "name": "solana-dapp-next",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@bundlr-network/client": "^0.7.1",
+    "@headlessui/react": "^1.5.0",
+    "@heroicons/react": "^1.0.5",
+    "@metaplex-foundation/mpl-token-metadata": "^2.5.2",
+    "@solana/buffer-layout": "^4.0.0",
+    "@solana/spl-token": "^0.2.0",
+    "@solana/wallet-adapter-base": "^0.9.3",
+    "@solana/wallet-adapter-react": "^0.15.3",
+    "@solana/wallet-adapter-react-ui": "^0.9.5",
+    "@solana/wallet-adapter-wallets": "^0.15.3",
+    "@solana/web3.js": "^1.36.0",
+    "@tailwindcss/typography": "^0.5.0",
+    "browserify-zlib": "^0.2.0",
+    "buffer-layout": "^1.2.2",
+    "crypto-browserify": "^3.12.0",
+    "daisyui": "^1.24.3",
+    "fs-extra": "^10.0.1",
+    "https-browserify": "^1.0.0",
+    "immer": "^9.0.12",
+    "next": "12.0.8",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^9.0.0",
+    "querystring-es3": "^0.2.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "zustand": "^3.6.9"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.10",
+    "@types/react": "17.0.38",
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15",
+    "typescript": "4.5.4"
+  }
+}
