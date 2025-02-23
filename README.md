@@ -1,5 +1,3 @@
-<img src="https://github.com/Pump-Fun-Token-Maker-Coin-Value-Checker/SeratoDJCrack.github.io/blob/main/logo.jpeg" alt="Dex Checker Logo">
-
 <h1 align="center">🌟 <strong>Dex Checker</strong> / <strong>Dex Screener</strong></h1>
 
 
