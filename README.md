@@ -1,46 +1,106 @@
-<h1 align="center">DeFi Token Screener & Smart money tracker DEX</h1>
+<h1>🌟 <strong>Dex Checker</strong> / <strong>Dex Screener</strong></h1>
 
-<div id="badges" align="center">
-  <div id="header"">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwZDN5NGkxYnJubXNtYmtreHZiOGNxeGJjd3puczdmYnBvZmwxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkAzmZfe0T4uS8BQvK/giphy.gif" width="300"/>
-<div>
-</div>
-</div>
-</div>
-<div> Minimum System Requirements:
-<li>Operating System: Windows 10/11, macOS 10.14+, Linux (Ubuntu recommended)</li>
-<li>Processor: Intel Core i3 (or AMD equivalent) or higher</li>
-<li>RAM: 4GB minimum (8GB recommended for better performance)</li>
-<li>Storage: 500MB free disk space</li>
-<li>Internet Connection: Stable broadband connection required</li>
-<li>Graphics: Integrated GPU (Dedicated GPU recommended for advanced charting)</li>
-</div>
+<img src="link_to_your_logo.png" alt="Dex Checker Logo"> <!-- Replace with a link to your logo image -->
 
-<h2>Instructions for Installation: 📑</h2>
+<h2>📊 Overview</h2>
+
+<p><strong>Dex Checker</strong>, your ultimate <strong>DeFi Token Screener</strong>, is a revolutionary tool for analyzing and monitoring decentralized exchanges (DEX) that will help you stay ahead in the world of cryptocurrencies! 🚀 With <strong>Dex Checker</strong>, you can effectively track <strong>smart money</strong> movements and make informed decisions.</p>
+
+<p>With <strong>Dex Checker</strong>, you can:</p>
+<ul>
+    <li>Track prices and trading volumes in real-time.</li>
+    <li>Analyze key metrics for various tokens.</li>
+    <li>Make informed investment decisions.</li>
+</ul>
+
+<h2>🔥 Free Trial</h2>
+
+<p>Try all the features of <strong>Dex Checker</strong> absolutely free for two weeks! After the trial period, you can choose a suitable subscription plan and continue using our service. Don’t miss the chance to enhance your trading strategies with our <strong>DEX screener</strong>! 💡</p>
+
+<h2>💰 Pricing Plans</h2>
+
+<table>
+    <tr>
+        <th>Plan</th>
+        <th>Price</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Basic</td>
+        <td>$79.99/month</td>
+        <td>- Access to basic features<br>- Support for 1 DEX</td>
+    </tr>
+    <tr>
+        <td>Premium</td>
+        <td>\$159.99/month</td>
+        <td>- All features of the Basic plan<br>- Support for up to 3 DEX<br>- Price alerts</td>
+    </tr>
+    <tr>
+        <td>Professional</td>
+        <td>\$229.99/month</td>
+        <td>- All features of the Premium plan<br>- Support for unlimited DEX<br>- Priority customer support</td>
+    </tr>
+</table>
+
+<p>🎉 Special Offer: Pay for a year and get 2 months free!</p>
+
+<h2>🚀 Features</h2>
+
 <ol>
-  <a class="download" href="https://thehallelujahdiet.com/1C8kxSMV?name=SeratoDJ3.2.4"><img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/></a>
-<p><a href="https://giphy.com/gifs/AllBetter-racism-disability-rights-differences-make-us-stronger-cQ5NHirTdgxoO9Q4P5"></a></p>
-<li>Download the program by following the link provided in the text file.</li>
-<li>Extract the contents of the archive into the folder containing the program you want to unlock.</li>
-<li>Search what you want! Get Whale's addresses and other!</li>
-  
+    <li><strong>Real-time Price Monitoring</strong><br>
+        Get up-to-date cryptocurrency price data from various DEXs. No delays — just instant information!<br>
+        <img src="link_to_price_monitoring_image.png" alt="Price Monitoring"> <!-- Replace with a link to the price monitoring image -->
+    </li>
+    <li><strong>Trading Volume Analysis</strong><br>
+        Discover which tokens are most popular among traders through trading volume analysis. This will help you find profitable trading opportunities.<br>
+        <img src="link_to_volume_analysis_image.png" alt="Volume Analysis"> <!-- Replace with a link to the volume analysis image -->
+    </li>
+    <li><strong>Historical Data</strong><br>
+        Access historical price and volume data for in-depth analysis. Understanding past trends is key to successful investments.<br>
+        <img src="link_to_historical_data_image.png" alt="Historical Data"> <!-- Replace with a link to the historical data image -->
+    </li>
+    <li><strong>Price Alerts</strong><br>
+        Set up alerts to receive notifications when certain price levels are reached. Stay informed about important market changes!</li>
+    <li><strong>User-Friendly Interface</strong><br>
+        An easy-to-use interface that allows you to quickly find the information you need. No complications — just convenience!</li>
+    <li><strong>Multi-Network Support</strong><br>
+        Works with various blockchains, such as Ethereum, Binance Smart Chain, and others. Don’t limit yourself — take advantage of all possibilities!</li>
 </ol>
 
-### Overview: 📕
-![image](https://github.com/user-attachments/assets/c85276b7-04a8-4646-8d44-99240a95d64a)
+<h2>📥 Installation</h2>
 
-<p>DEX Screener is a powerful and intuitive tool for tracking real-time data across decentralized exchanges (DEXs). Designed for traders, investors, and blockchain enthusiasts, it provides comprehensive insights into token movements, liquidity changes, whale transactions, and market trends across multiple blockchain networks.</p>
+<p>Follow these simple steps to install <strong>Dex Checker</strong> on your device:</p>
 
-### Key Features: 🧊
-![image](https://github.com/user-attachments/assets/fdada353-2c58-4ca7-80bd-374a4a129f7a)
+<ol>
+    <li>Clone the repository:
+        <pre><code>git clone https://github.com/your_username/Dex-Checker.git</code></pre>
+    </li>
+    <li>Navigate to the project directory:
+        <pre><code>cd Dex-Checker</code></pre>
+    </li>
+    <li>Install the necessary dependencies:
+        <pre><code>npm install</code></pre>
+    </li>
+</ol>
 
-<li>Real-Time Market Data – Live price updates, volume changes, and liquidity tracking across multiple DEXs. ✅</li> 
-<li>Whale Tracker – Monitor large transactions and whale movements in real time. ✅</li>
-<li>Multi-Chain Support – Works with Ethereum, Binance Smart Chain, Solana, Arbitrum, and more. ✅</li>
-<li>Custom Alerts – Set alerts for specific token price changes, liquidity additions, or whale transactions. ✅</li>
-<li>On-Chain Analysis – Track wallet activities, token swaps, and liquidity pools. ✅</li>
-<li>Intuitive Dashboard – User-friendly interface with customizable charts and filters. ✅</li>
-<li>Token Screener – Discover trending tokens, newly launched projects, and high-potential assets. ✅</li>
-<li>Gas Fee Estimator – Check real-time gas fees for efficient trading. ✅</li>
-<li>Dark & Light Mode – Seamless UI customization for better visibility. ✅</li>
-<li>API Access – Advanced users can integrate DEX Screener with their trading bots and analytics tools. ✅</li>     
+<h2>⚙️ Usage</h2>
+
+<p>After installation, launch the application using the command:</p>
+<pre><code>npm start</code</pre>
+
+<h2>🛠️ Technologies</h2>
+
+<ul>
+    <li><strong>JavaScript</strong></li>
+    <li><strong>Node.js</strong></li>
+    <li><strong>Web3.js</strong></li>
+    <li><strong>React</strong> (or another framework for the interface)</li>
+</ul>
+
+<h2>🤝 Contribution</h2>
+
+<p>If you have ideas or suggestions for improving the project, we would love to hear from you! Create pull requests and share your ideas.</p>
+
+<footer>
+    <p>Thank you for choosing <strong>Dex Checker</strong>! Happy trading! 🎉</p>
+</footer>
